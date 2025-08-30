@@ -940,7 +940,7 @@ While making method calls, the programmer must
 	jshell> Math.max(23, 45)
 	$6 ==> 45
 	jshell> Math.max(23, 2)
-	$7 ==> 2
+	$7 ==> 23
 	jshell>
 
 ```
